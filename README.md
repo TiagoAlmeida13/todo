@@ -6,14 +6,6 @@
 	🚧 Todo List. 🚧
 </h4>
 
-<p align="center">
-  
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/TiagoAlmeida13/todo/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/TiagoAlmeida13/todo?style=social">
-  </a>
-</p>
 
 ## 💻 Sobre o projeto
 

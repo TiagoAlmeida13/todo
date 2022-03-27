@@ -7,15 +7,7 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/TiagoAlmeida13/todo?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TiagoAlmeida13/todo">
-
-  	
   
-  <a href="https://github.com/TiagoAlmeida13/todo/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoAlmeida13/todo">
-  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/TiagoAlmeida13/todo/stargazers">

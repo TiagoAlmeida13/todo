@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+.container .users {
+  display: flex;
+  margin: 10px;
+}
+
+.container .users div button {
+  margin: 0 10px;
+  border: none;
+  background: rgb(133, 133, 133);
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  height: 35px;
+  border-radius: 5px;
+  
+}
+
+.container .users div button:hover {
+  background: rgb(255, 255, 255);
+  color: rgb(133, 133, 133);
+}
+
+.todo-list{
+  margin-top: 25px;
+}
+
+.todo {
+  display: flex;
+  align-items: center;
+}
+
+.todo-complete{
+  text-decoration: line-through;
+  color: red; 
+}
